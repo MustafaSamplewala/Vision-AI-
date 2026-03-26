@@ -1,0 +1,9 @@
+
+{
+  "name": "VisionAI Sentinel",
+  "description": "A next-generation AI vision companion featuring a vibrant landing page and a premium, macOS-inspired minimalist system dashboard.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
